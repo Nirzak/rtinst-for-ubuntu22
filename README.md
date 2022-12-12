@@ -1,4 +1,4 @@
-## Note: This is the fork of the origin rtinst script which supports on Ubuntu 22 but may break on other operating System.
+## Note: This is the fork of the original rtinst script which supports on Ubuntu 22 but may break on other operating System.
 
 ## rtinst
 
